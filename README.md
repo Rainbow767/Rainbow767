@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Rainbow767
+- 👋 Hi, I’m Rain
 - 👀 I’m interested in Game-Dev, Search Engines,...
-- 🌱 I’m currently learning Search Engines
-- 💞️ I’m looking to collaborate on protecting privacy of internet users,...
+- 🌱 I’m currently learning Game-Dev
 
 <!---
 Rainbow767/Rainbow767 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
